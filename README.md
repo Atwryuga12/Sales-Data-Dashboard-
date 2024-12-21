@@ -1,6 +1,6 @@
 # Sales-Data-Dashboard-
-**Sales Data Analysis Excel Dashboard Project**
 
+### Sales Data Analysis Excel Dashboard Project**
 This project is a dynamic Excel dashboard designed to analyze and visualize sales data. The dashboard provides actionable insights into the company’s performance by leveraging multiple dimensions of analysis, including product categories, geographic distribution, customer segmentation, and profitability over time. Key features include:
 
 Sales by Category: An overview of sales performance across different product categories.
@@ -11,4 +11,7 @@ Top 5 Customers: Insights into the company’s most valuable customers based on 
 Customer Count: A tally of distinct customers to understand the breadth of customer engagement.
 The dashboard consolidates this information into interactive visuals, providing users with an intuitive interface for exploring key metrics and making data-driven decisions. This project demonstrates my ability to use Excel for advanced data analysis and visualization, showcasing skills in data manipulation, aggregation, and dashboard creation.
 
+## Dashboard Screenshot 
+
+![Sales Data Analysis Databoard SC](https://github.com/user-attachments/assets/fcff3870-62e1-41f6-bd82-55981cccdd72)
 
